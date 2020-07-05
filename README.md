@@ -5,10 +5,13 @@ This is a small snippet which reads the file from your folder provided and conve
 Can be controlled directly from the terminal 
 
 The image.py consists the program code
+
 Format :
+
 python [python-file.py] [images_folder name][folder-you-want-to-store-the-converted-images=to]
 
 eg:
+
 python images.py Original_Images Converted_Images
 
 
