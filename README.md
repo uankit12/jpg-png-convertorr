@@ -7,7 +7,9 @@ Can be controlled directly from the terminal
 The image.py consists the program code
 
 Format :
+
 *Python File and your images folder must be on the same directory !
+
 python [python-file.py] [images_folder name][folder-you-want-to-store-the-converted-images=to]
 
 eg:
